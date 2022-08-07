@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Mi primer HTML</h1>
+<p>¡Esto es una descripción de mi primer HTML!</p>
+</body>
+</html>
